@@ -1,2 +1,2 @@
 default:
-	cc main.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+	cc main.cpp -o raylib-template -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
